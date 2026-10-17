@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NetPayCalculator.Tests/NetPayCalculator.Tests.csproj" />
+  <Project Path="NetPayCalculator/NetPayCalculator.csproj" />
+</Solution>
